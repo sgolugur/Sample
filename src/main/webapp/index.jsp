@@ -214,5 +214,6 @@ window.onload = function() {
 	   $('#filecontents').focus();
 	   $('#filecontents')[0].selectionStart = $('#filecontents')[0].selectionEnd = start + val.length -1;
 	}
+	
 </script>
 </html>
